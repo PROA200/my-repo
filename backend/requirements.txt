@@ -1,0 +1,9 @@
+fastapi
+supabase
+python-dotenv
+imapclient
+uvicorn
+pydantic
+gunicorn
+PyJWT
+Pillow
